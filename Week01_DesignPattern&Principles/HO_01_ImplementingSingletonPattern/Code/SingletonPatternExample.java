@@ -13,6 +13,7 @@ class Logger{
     }
 }
 
+//Main class to test the Singleton Pattern
 public class  SingletonPatternExample{
     public static void main(String[] args) {
         System.out.println("Testing Singleton Pattern Example");
